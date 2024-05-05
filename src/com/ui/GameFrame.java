@@ -2,7 +2,6 @@ package com.ui;
 
 import com.object.GameInfo;
 import com.object.User;
-
 import javax.swing.*;
 import javax.swing.border.BevelBorder;
 import java.awt.*;
